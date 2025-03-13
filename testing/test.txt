@@ -1,1 +1,3 @@
 caso de prueba nro1
+nuevo caso de prueba mro 3 
+resultado obtenido : OKclear
